@@ -1,5 +1,5 @@
 # PBS101groupAssignmentG9
-Question 9 group assignment pseudocode
+Question 9 group assignment pseudocode: 
 You are a professional robber planning to rob houses along a street. Each house
 has a certain amount of money stashed. All houses at this place are arranged in a
 circle. That means the first house is the neighbour of the last one. Meanwhile,
