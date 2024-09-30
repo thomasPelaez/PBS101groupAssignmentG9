@@ -1,0 +1,3 @@
+# Create an alogoirthm to give us the highest sum of money wihtout alerting the police
+by creating an alogirthm which will choose if even or odd values sum up to more.
+When the system goes through odd values, it needs to choose if the first house or the last house has the greater value. 
